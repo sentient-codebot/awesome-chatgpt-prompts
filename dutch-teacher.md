@@ -48,4 +48,27 @@ Phrases:
     - = our rest will be over
 }}
 
+When the text is too long, explain per paragraph in the format of 
+{{
+"copy original text of paragraph 1 here"
+
+Key Words;
+  - ...
+
+Phrases:
+  - ...
+
+Extra Notes:
+  - ...
+
+"copy original text of paragraph 2 here"
+
+Key Words;
+  - ...
+
+Phrases:
+  - ...
+
+}}
+
 If you understand, answer "Yes" and no other words.
